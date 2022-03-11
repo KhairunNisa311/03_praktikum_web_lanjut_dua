@@ -1,6 +1,7 @@
 <?php
 
 use App\Http\Controllers\CompanyController;
+use App\Http\Controllers\PostController;
 use Illuminate\Support\Facades\Route;
 
 /*
@@ -23,6 +24,7 @@ Route::get('/', [CompanyController:: class, 'index']);
 
 Route::get('/company', [CompanyController:: class, 'company']);
 
-Route::get('/services', [CompanyController:: class, 'services']);
+Route::get('/services', [PostController:: class, 'index']);
 
 Route::get('/contact', [CompanyController:: class, 'contact']);
+

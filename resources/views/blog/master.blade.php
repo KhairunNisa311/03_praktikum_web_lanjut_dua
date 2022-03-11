@@ -14,27 +14,14 @@
         <link href="style/css/templatemo-new-vision.css" rel="stylesheet" />     
     </head>
     <body>
-        <div class="row">
-            <div class="col-12">
                 @include('blog.header')
-            </div>
-        </div>
-        <div class="row">
-            <div class="col-12">
                 @yield('content')
-            </div>
-        </div>
-        <footer>
-            <div class="row">
-                <div class="col-12">
-                    @include('blog.footer')
-                </div>
-            </div>
-        </footer>
+                @include('blog.footer')
+               
         <!-- Menyisipkan Javascript -->
-        <script src="public/js/jquery-3.4.1.min.js"></script>
-        <script src="public/slick/slick.min.js"></script>
-        <script src="public/js/bootstrap.min.js"></script>
-        <script src="public/js/templatemo-script.js"></script>
+        <script src="style/js/jquery-3.4.1.min.js"></script>
+        <script src="style/slick/slick.min.js"></script>
+        <script src="style/js/bootstrap.min.js"></script>
+        <script src="style/js/templatemo-script.js"></script>
     </body>
 </html>

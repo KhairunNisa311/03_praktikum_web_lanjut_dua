@@ -47,14 +47,14 @@
                     </div>
                     <div class="col-md-6">
                         <div class="tm-about-1">
-                            <img src="img/img-3x1-01.jpg" alt="Image" class="img-fluid mb-5">
+                            <img src="{{asset('style/img/img-3x1-01.jpg')}}" alt="Image" class="img-fluid mb-5">
                             <p class="tm-article-text">Phasellus blandit tortor vel odio hendrerit, eleifend ultricies odio temport. Etiam euismod, lectus convallis efficitur convallis, risus orci auctor orci.</p>
                             <p>Cras imperdiet in ligula sit amet fringilla. Morbi posuere mattis ornare. Nunc iaculis porta ipsum. Aliquam vehicula egestas diam auctor ornare.</p>
                         </div>    
                     </div>
                     <div class="col-md-6">
                         <div class="tm-about-1">
-                            <img src="img/img-3x1-02.jpg" alt="Image" class="img-fluid mb-5">
+                            <img src="{{asset('style/img/img-3x1-02.jpg')}}" alt="Image" class="img-fluid mb-5">
                             <p class="tm-article-text">Quisque sed tortor sed metus vehicula pulvinar vel dictum tortor. Nivamus eu posuere arcu. Vivamus vel urna id mi congue convallis at sed augue.</p>
                             <p>Praesent venenatis risus aliquet semper porta. Maecenas mollis nisi non hendrerit finibus. Ut eu convallis massa. Sed imperdiet arcu non egestas elementum.</p>
                         </div>    
@@ -73,7 +73,7 @@
                 <!-- Carousel -->
                 <div class="grid tm-carousel">
                     <figure class="effect-zoe">
-                        <img src="img/team-img-01.jpg" alt="Featured Item">
+                        <img src="{{asset('style/img/team-img-01.jpg')}}" alt="Featured Item">
                         <figcaption>
                             <h2>John Stone</h2>
                             <p class="icon-links">
@@ -84,7 +84,7 @@
                         </figcaption>
                     </figure>
                     <figure class="effect-zoe">
-                        <img src="img/team-img-02.jpg" alt="Featured Item">
+                        <img src="{{asset('style/img/team-img-02.jpg')}}" alt="Featured Item">
                         <figcaption>
                             <h2>Jane Meldrum</h2>
                             <p class="icon-links">
@@ -95,7 +95,7 @@
                         </figcaption>
                     </figure>
                     <figure class="effect-zoe">
-                        <img src="img/team-img-03.jpg" alt="Featured Item">
+                        <img src="{{asset('style/img/team-img-03.jpg')}}" alt="Featured Item">
                         <figcaption>
                             <h2>Trevor Virtue</h2>
                             <p class="icon-links">
@@ -106,7 +106,7 @@
                         </figcaption>
                     </figure>
                     <figure class="effect-zoe">
-                        <img src="img/team-img-04.jpg" alt="Featured Item">
+                        <img src="{{asset('style/img/team-img-04.jpg')}}" alt="Featured Item">
                         <figcaption>
                             <h2>Emily Moore</h2>
                             <p class="icon-links">
@@ -117,7 +117,7 @@
                         </figcaption>
                     </figure>
                     <figure class="effect-zoe">
-                        <img src="img/team-img-05.jpg" alt="Featured Item">
+                        <img src="{{asset('style/img/team-img-05.jpg')}}" alt="Featured Item">
                         <figcaption>
                             <h2>Claire Li</h2>
                             <p class="icon-links">
@@ -128,7 +128,7 @@
                         </figcaption>
                     </figure>
                     <figure class="effect-zoe">
-                        <img src="img/team-img-06.jpg" alt="Featured Item">
+                        <img src="{{asset('style/img/team-img-06.jpg')}}" alt="Featured Item">
                         <figcaption>
                             <h2>Elisabeth Shu</h2>
                             <p class="icon-links">
@@ -139,7 +139,7 @@
                         </figcaption>
                     </figure>
                     <figure class="effect-zoe">
-                        <img src="img/team-img-07.jpg" alt="Featured Item">
+                        <img src="{{asset('style/img/team-img-07.jpg')}}" alt="Featured Item">
                         <figcaption>
                             <h2>Dania Liu</h2>
                             <p class="icon-links">
@@ -150,7 +150,7 @@
                         </figcaption>
                     </figure>
                     <figure class="effect-zoe">
-                        <img src="img/team-img-08.jpg" alt="Featured Item">
+                        <img src="{{asset('style/img/team-img-08.jpg')}}" alt="Featured Item">
                         <figcaption>
                             <h2>Miracle Yang</h2>
                             <p class="icon-links">

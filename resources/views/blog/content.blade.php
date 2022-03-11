@@ -19,28 +19,28 @@
                         
                 <div class="row tm-welcome-row">
                     <article class="col-lg-6 tm-media">
-                        <img src="img/img-3x2-01.jpg" alt="Welcome image" class="img-fluid tm-media-img" />
+                        <img src="{{asset('style/img/img-3x2-01.jpg')}}" alt="Welcome image" class="img-fluid tm-media-img" />
                         <div class="tm-media-body">
                             <a href="#" class="tm-article-link"><h3 class="tm-article-title text-uppercase">Best collection</h3></a>
                             <p>Aliquam purus arcu, congue a gravida ac, facilisis vel erat. Maecenas pretium sem.</p>
                         </div>
                     </article>
                     <article class="col-lg-6 tm-media">
-                        <img src="img/img-3x2-02.jpg" alt="Welcome image" class="img-fluid tm-media-img" />
+                        <img src="{{asset('style/img/img-3x2-02.jpg')}}" alt="Welcome image" class="img-fluid tm-media-img" />
                         <div class="tm-media-body">
                             <a href="#" class="tm-article-link"><h3 class="tm-article-title text-uppercase">New Design for your website</h3></a>
                             <p>Aliquam purus arcu, congue a gravida ac, facilisis vel erat. Maecenas pretium sem at nisl malesuada, quis.</p>
                         </div>
                     </article>
                     <article class="col-lg-6 tm-media">
-                        <img src="img/img-3x2-03.jpg" alt="Welcome image" class="img-fluid tm-media-img" />
+                        <img src="{{asset('style/img/img-3x2-03.jpg')}}" alt="Welcome image" class="img-fluid tm-media-img" />
                         <div class="tm-media-body">
                             <a href="#" class="tm-article-link"><h3 class="tm-article-title text-uppercase">Most unique idea ever made</h3></a>
                             <p>Aliquam purus arcu, congue a gravida ac, facilisis vel erat. Maecenas. <span class="tm-hover-color">Hover #09F</span></p>
                         </div>
                     </article>
                     <article class="col-lg-6 tm-media">
-                        <img src="img/img-3x2-04.jpg" alt="Welcome image" class="img-fluid tm-media-img" />
+                        <img src="{{asset('style/img/img-3x2-04.jpg')}}" alt="Welcome image" class="img-fluid tm-media-img" />
                         <div class="tm-media-body">
                             <a href="#" class="tm-article-link"><h3 class="tm-article-title text-uppercase">Simple touch</h3></a>
                             <p>Please tell your friends about TemplateMo website. Thank you. Title / Text #666</p>
@@ -86,49 +86,49 @@
                 <!-- Carousel -->
                 <div class="grid tm-carousel">
                     <figure class="effect-honey">
-                        <img src="img/gallery-item-01.jpg" alt="Featured Item">
+                        <img src="{{asset('style/img/gallery-item-01.jpg')}}" alt="Featured Item">
                         <figcaption>
                             <h4><i><span>Best</span> HTML Template</i></h4>
                         </figcaption>
                     </figure>
                     <figure class="effect-honey">
-                        <img src="img/gallery-item-02.jpg" alt="Featured Item">
+                        <img src="{{asset('style/img/gallery-item-02.jpg')}}" alt="Featured Item">
                         <figcaption>
                             <h4><i><span>Top</span> CSS Theme</i></h4>
                         </figcaption>
                     </figure>
                     <figure class="effect-honey">
-                        <img src="img/gallery-item-03.jpg" alt="Featured Item">
+                        <img src="{{asset('style/img/gallery-item-03.jpg')}}" alt="Featured Item">
                         <figcaption>
                             <h4><i><span>Best</span> HTML Template</i></h4>
                         </figcaption>
                     </figure>
                     <figure class="effect-honey">
-                        <img src="img/gallery-item-04.jpg" alt="Featured Item">
+                        <img src="{{asset('style/img/gallery-item-04.jpg')}}" alt="Featured Item">
                         <figcaption>
                             <h4><i><span>Great</span> Web Theme</i></h4>
                         </figcaption>
                     </figure>
                     <figure class="effect-honey">
-                        <img src="img/gallery-item-05.jpg" alt="Featured Item">
+                        <img src="{{asset('style/img/gallery-item-05.jpg')}}" alt="Featured Item">
                         <figcaption>
                             <h4><i><span>Best</span> HTML Collection</i></h4>
                         </figcaption>
                     </figure>
                     <figure class="effect-honey">
-                        <img src="img/gallery-item-06.jpg" alt="Featured Item">
+                        <img src="{{asset('style/img/gallery-item-06.jpg')}}" alt="Featured Item">
                         <figcaption>
                             <h4><i><span>Max</span> CSS Layout</i></h4>
                         </figcaption>
                     </figure>
                     <figure class="effect-honey">
-                        <img src="img/gallery-item-07.jpg" alt="Featured Item">
+                        <img src="{{asset('style/img/gallery-item-07.jpg')}}" alt="Featured Item">
                         <figcaption>
                             <h4><i><span>Best</span> HTML Layout</i></h4>
                         </figcaption>
                     </figure>
                     <figure class="effect-honey">
-                        <img src="img/gallery-item-08.jpg" alt="Featured Item">
+                        <img src="{{asset('style/img/gallery-item-08.jpg')}}" alt="Featured Item">
                         <figcaption>
                             <h4><i><span>Best</span> CSS Template</i></h4>
                         </figcaption>
